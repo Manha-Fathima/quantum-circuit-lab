@@ -1,6 +1,7 @@
-fastapi
-uvicorn[standard]
-qiskit
-qiskit-aer
-anthropic
-pydantic
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+qiskit==1.2.4
+qiskit-aer==0.15.1
+anthropic==0.34.2
+pydantic==2.9.2
+numpy==1.26.4
